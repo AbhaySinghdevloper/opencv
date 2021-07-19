@@ -1,1 +1,1 @@
-# opencv
+# A python based project on opencv
